@@ -1,4 +1,9 @@
-### Hi there 👋
+# WELCOME TO MY GITHUB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## I'm leviscott
+* :books: i'm currently working on projects to showcase skills and knowledge
+* :o: My current goal is to get a job in either data engineering or data analytics
+* :motorcycle: :surfing_man: :plate_with_cutlery:  I love wakesurfing, motorcycles, and trying/cooking new foods
+
 
 <!--
 **LeviScott29/LeviScott29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
