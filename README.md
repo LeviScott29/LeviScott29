@@ -1,7 +1,7 @@
 # WELCOME TO MY GITHUB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## I'm leviscott
 * i'm currently working on projects to showcase skills and knowledge
-* My current goal is to get a job in either data engineering or data analytics
+* My current goal is to get a job in either data engineering or software development
 * I love wakesurfing, motorcycles, and trying/cooking new foods
 
 
